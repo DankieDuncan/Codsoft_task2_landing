@@ -1,0 +1,10 @@
+header,footer{
+    background-color: aqua;
+    text-align: center;
+}
+#home{
+    background: url(LandScape.jpg) no-repeat center center / cover;
+    padding: 100px 20px;
+    text-align: center;
+    color: white;
+}
